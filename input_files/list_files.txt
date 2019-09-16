@@ -1,0 +1,8 @@
+5UTR.bed
+distal.bed
+exons.bed
+introns.bed
+desert.bed
+promoters.bed
+proximal.bed
+tss.bed
